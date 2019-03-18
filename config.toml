@@ -1,4 +1,6 @@
-baseURL = "https://bistuisi.gitee.io/"
+# baseURL = "https://bistuisi.gitee.io/"
+baseurl = ""
+relativeurls = true
 publishDir =  "docs"
 languageCode = "zh-cn"
 title = "BISTU ISI"
